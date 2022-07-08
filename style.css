@@ -1,0 +1,54 @@
+.yuki-celibrities-photo{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .yuki-prod-image{
+    width:30%;
+    margin:1rem;
+   
+  }
+  
+  .yuki-product-button{
+    
+    background-color:#574C3C;
+    color:white;
+    width:20vw;
+    height:3vw;
+    border:none;
+      font-family: Avrin,'Roman';
+    
+   display:block
+  }
+  .yuki-buttons{display : flex;
+    justify-content:space-evenly;
+    width:100%;
+     
+  
+  }
+  .yuki-texts{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    width:100%
+  
+    
+  }
+  .yuki-cleibritipage-head{
+    text-align:center;
+    font-size:5vw;
+   font-family: 'Cormorant Garamond', serif;
+  }
+  .yukis-text{
+      margin-left:1vw;
+    font-size:2vw;
+  font-family:Avenir,Book;
+    
+  
+    
+  }
+  
+  .yuki-items{
+    width:100vw;
+  }
